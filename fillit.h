@@ -6,7 +6,7 @@
 /*   By: apaget <marvin@42.fr>                      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2015/11/29 01:26:26 by apaget            #+#    #+#             */
-/*   Updated: 2015/12/07 17:24:17 by apaget           ###   ########.fr       */
+/*   Updated: 2016/01/30 12:49:34 by apaget           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,6 @@
 
 # include <stdlib.h>
 # include <sys/types.h>
-# include <stdio.h>
 # include <fcntl.h>
 # include <sys/stat.h>
 # include <string.h>
